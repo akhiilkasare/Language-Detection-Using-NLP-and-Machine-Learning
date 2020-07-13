@@ -136,7 +136,6 @@ In this project I've used Logistic Regression it has performed well with all thi
 # 9. Creating a pickle file.
 Creating a pickle file using .pickle file and can be used for the deployment of the model over web.
 
-# Our Team
 
 
 
